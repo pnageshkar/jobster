@@ -4,7 +4,7 @@
 
 #### React Redux Project
 
-[John Smilga's Course](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF)
+Check out [John Smilga's Course](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF)
 
 #### Run The App Locally
 
