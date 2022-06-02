@@ -1,6 +1,6 @@
-# Jobster
+# Project Jobster
 
-Project in Action - [Jobster]
+
 
 #### React Redux Project
 
