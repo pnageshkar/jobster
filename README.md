@@ -1777,7 +1777,7 @@ AddJob.js
 />
 ```
 
-#### 53) User Slice - HandleChange Reducer
+#### 53) Job Slice - HandleChange Reducer
 
 jobSlice.js
 
@@ -1802,7 +1802,7 @@ const handleJobInput = (e) => {
 };
 ```
 
-#### 54) User Slice - ClearValues Reducer
+#### 54) Job Slice - ClearValues Reducer
 
 ```js
 
