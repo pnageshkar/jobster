@@ -1,7 +1,5 @@
 # Project Jobster
 
-
-
 #### React Redux Project
 
 Check out [John Smilga's Course](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF)
@@ -2642,7 +2640,7 @@ export const showStats = createAsyncThunk(
   async (_, thunkAPI) => {
     try {
       const resp = await customFetch.get('/jobs/stats');
-      console.log(resp.data));
+      console.log(resp.data);
       return resp.data;
     } catch (error) {
       return thunkAPI.rejectWithValue(error.response.data.msg);
